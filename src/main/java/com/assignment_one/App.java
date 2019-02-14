@@ -197,7 +197,7 @@ public class App
         }while (exit != 'y');
 
         System.out.println("\n\t******************************************\n" +
-                "\t*  GOOD BYE. I HOPE YOU COME BACK AGAIN! *\n"+
+                "\t*  Good bye. I hope you come back again soon! *\n"+
                 "\t******************************************");
     }
 }
